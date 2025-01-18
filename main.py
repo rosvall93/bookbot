@@ -11,7 +11,6 @@ def sort(sorted_list):
     return sorted_list["num"]
 
 
-
 def the_sorter(dict):
     a = []
     for key in dict:
@@ -22,7 +21,6 @@ def the_sorter(dict):
     return a
 
         
-
 def word_list(letters):
     freq = {}
     for f in letters:
